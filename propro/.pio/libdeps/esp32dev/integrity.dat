@@ -1,0 +1,6 @@
+lvgl/lv_arduino@^3.0.1
+bodmer/TFT_eSPI@^2.4.74
+freenove/Freenove WS2812 Lib for ESP32@^1.0.5
+lvgl/lvgl@^8.3.1
+bblanchon/ArduinoJson@^6.19.4
+lvgl/lv_examples@^8.1.1-dev

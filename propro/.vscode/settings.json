@@ -1,0 +1,13 @@
+{
+    "EIDE.SerialPortMonitor.BaudRate": 115200,
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "ws2812.h": "c",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp"
+    },
+    "idf.portWin": "COM19"
+}
