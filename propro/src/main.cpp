@@ -37,7 +37,7 @@
 //   //WS2812端口初始化为输出
 //   pinMode(2,OUTPUT);
 //   strip.setBrightness(255);
-//   //扫描定时器初始化
+//   //扫描定时器初始化    
 //   TIMER=timerBegin(0,80,true);
 //   timerAttachInterrupt(TIMER, &onTimer, true);    //调用中断函数
 //   timerAlarmWrite(TIMER, 100000, true);        //timerBegin的参数二 80位80MHZ，这里为200000  意思为0.2秒,5HZ
